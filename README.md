@@ -7,7 +7,6 @@ The option it provides are:
 2.Single Led control.
 <br>
 3.Turn ON all.
-
 <br>
 4.Turn OFF all.
 
